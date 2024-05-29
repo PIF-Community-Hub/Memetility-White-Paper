@@ -20,7 +20,7 @@ To harness the collective power of the PIF community and beyond, enabling users 
 
 For more detailed information, please refer to the [Memetility White Paper](./Memetility_White_Paper.pdf).
 
-This project is licensed under the terms of the MIT license. See the [LICENSE](./LICENSE) file for details.
+The white paper is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
